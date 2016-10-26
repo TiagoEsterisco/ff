@@ -1,7 +1,4 @@
 # ff
 Hackaton - ff
-
-Duarte
+Duarte - alteração na branch
 Miguel Calafate
-
-mudado na branch miguel
